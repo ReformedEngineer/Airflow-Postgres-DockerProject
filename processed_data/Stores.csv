@@ -1,0 +1,1001 @@
+id,name,business_id,latitude,longitude
+1,*NOW OPEN* - Eddy's Food Station,123,-33.8706423,151.205003
+30,11 o'clock shop - Lifestyle Express,1180,-33.8507677,151.1349249
+62,1st Stop 2 Shop Forfar,47,0.0,0.0
+64,3 Session Street,708,0.0,0.0
+69,4Ways Premier,409,0.0,0.0
+70,7 day local,781,0.0,0.0
+71,7 Eleven Local,896,0.0,0.0
+73,8 Till Late Cardiff,301,0.0,0.0
+74,Abi's Convenience,1433,49.2064983,-2.1300588
+86,Adam Ferguson Test,464,50.0972308,-5.2703015
+115,AF Blakemore Test Store,0,50.1561987,-5.071327
+182,Agnew's Family Shopper,1168,50.22190393,-5.089813578
+208,AJ Stores,1448,50.2219114,-5.0898979
+294,AJR California Wines LTD,1063,50.22322508,-5.293480211
+371,AKR & Sho LTD,794,50.2273607,-5.2685196
+388,Alan - Rate Limit Test,361,50.2333618,-5.2273267
+407,Alan Lumley Test,228,50.2612514,-5.1148283
+492,Alans 1Hr Test,361,50.2704632,-5.0402485
+586,Alans Test Store,361,50.3477673,-3.600588033
+658,Alans VME Test,361,50.3770407,-4.2045921
+781,Albert Off Licence,654,50.3770757,-4.1357025
+787,Alices Test Store,351,50.38282,-4.03159
+791,All In One Express,1125,50.3986908,-4.7927863
+792,Allendale Store & Bank End Post Office,1354,50.4051754,-4.2244
+806,Alliance Premier Thornton,1362,50.4121225,-4.2357238
+808,Al's Convenience Store,1589,50.47930921,-4.311779136
+809,Alsn test Satelites,0,50.4902585,-3.5242246
+815,AM PM Local,1563,50.4907728,-3.5756432
+818,Amar Bazar,1013,50.5156299,-3.7564416
+824,Angel's Store,1506,50.5158909,-4.8360802
+826,Aokas Food & Wine,595,50.593576,-3.457951
+841,Aris Test Store,361,50.6076746,-1.9557638
+892,Arlington Convenience Store,613,50.6098313,-1.9588027
+895,Arwi's Londis Barry,240,50.6109835,-2.4714439
+898,Ashington Convenience Premier,712,50.6308027,-1.178438613
+899,Ashlawn Newsagents,1502,50.6384719,-3.4089945
+910,Ashludie Pharmacy,480,50.6487372,-1.2822978
+913,Atwal Convenience Store Annan,655,50.6620722,-1.15190315
+918,Automated Testing - (Basket),1550,50.6800434,-2.2187976
+937,Automated Testing - (Basket-Different-Fulfilment-Times),1550,50.6814695,-1.5154292
+938,Automated Testing - (Closed-Delivery),1550,50.68405033,-1.529556222
+939,Automated Testing - (Delivery-Collection-Asap-Future-Cash-CardCheckoutcom),1550,50.6886314,-3.2372
+940,Automated Testing - (Open-Delivery-Sorting-1-DF-14-DT-33-MS-9-RT-0-DS-0-Has-Only-Asap-Slot-Type),1550,50.6911352,-1.0886998
+943,Automated Testing - (Open-Delivery-Sorting-2-DF-30-TD-22-MS-15-RT-0-DS-0-Has-Only-Future-Slot-Type),1550,50.69163638,-1.31244748
+950,Automated Testing - (Pre-Order-Collection),1550,50.6930822,-2.1194645
+960,AWG - Test Store (Donot order),667,50.69392965,-1.303647405
+969,Baba's Kitchen,523,50.6973807,-1.2953565
+981,Bagria Discount Store,879,50.6999982,-3.5367106
+982,Balaji Off Licence,1171,50.7001577,-3.536705
+983,Balby Mini Market,589,50.7031203,-3.2269745
+984,Bald Baker Edinburgh,1626,50.70982742,-3.455465877
+985,Ballifield Premier Store,771,50.7101592,-2.4572993
+986,Bam Test Store,434,50.7210547,-3.5211464
+987,Bambury Stores Premier,1471,50.72417238,-1.16701441
+988,Bargain Booze Denton,1123,50.7286711,-1.793965
+990,Bargain Booze Select Convenience & Groceries,1197,50.7291125,-3.5303126
+991,Bargain Booze Thorougoods Longridge,467,50.7308481,-1.9764751
+992,Barnes Express,418,50.7316752,-3.5018445
+993,Barneys Convenience Store,1049,50.732009,-0.7920727
+994,Barry’s Premier Cathcart,65,50.7334535,-2.7558971
+995,Baylis Food & Wine,662,50.7335899,-1.7865592
+996,Bearpark Convenience Store,913,50.7341835,-1.951452
+997,Beasleys CTN,383,50.73639403,-1.756997108
+998,Beauchamp Convenience Store,1583,50.7371528,-1.9544065
+1000,Bedlow Test Store,0,50.7409819,-1.8965374
+1001,Bedmond Premier Store,659,50.7411734,-3.4690961
+1002,Beechwood News,839,50.7521602,-1.8916794
+1003,Beer & Wine Co,948,50.7529218,-1.9347712
+1004,Beirut,832,50.7529218,-1.9347712
+1005,Belle Vue Convenience - Go Local,1040,50.754421,-1.302095077
+1006,Bellevue Booze - Go Local,1006,50.7544959,-1.6561702
+1009,Bellevue News,758,50.7597244,-1.9009124
+1010,Bellgrove Convenience Store,785,50.7695007,-0.8731412
+1011,Belmont Local,637,50.7865838,-1.0619375
+1012,Bembridge Convenience Stores,306,50.7894923,-1.0848851
+1013,Bentley Convenience,1015,50.7896619,-1.0928405
+1015,Berks Convenience Store,647,50.7907954,-1.0757087
+1018,Best One - Aberdare,792,50.7909784,-1.0556239
+1019,Best One Birnam Village Shop,684,50.7922082,-1.063341
+1020,Best One Bromborough,1077,50.7922319,-1.0696438
+1022,Best One Carluke,79,50.79249502,-0.682024885
+1023,Best One Coalburn,1569,50.7950557,-1.1187826
+1024,Best One Cubbington,1159,50.795643,-3.8380483
+1025,Best One Eccles,1066,50.7973204,-1.0766309
+1028,Best One Hurlford,385,50.797742,-1.1060443
+1029,Best One Jeanfield Road,979,50.8084833,-1.0603029
+1030,Best One Kelty,938,50.8090265,-1.0720207
+1031,Best One Maryhill,421,50.8091231,-1.0614236
+1032,Best One Melville Terrace,875,50.809487,-0.3848343
+1033,Best One Pall Mall,1250,50.81396451,-1.073332135
+1034,Best One Post Office Dudley Road,573,50.81710018,-1.976047754
+1035,Best One Roosevelt Avenue,699,50.8182964,-1.0800249
+1036,Best One St Denys,1494,50.8183031,-1.084676
+1037,Best One St Thomas Road,1598,50.8226544,-1.065684
+1038,Best One Stonehaven,81,50.8241984,-0.7876146
+1039,Best One Tollcross Road,770,50.8250175,-1.8889492
+1040,Birchgrove Mini Market,432,50.8258611,-1.1803302
+1041,Birmingham Store 2,146,50.8304623,-1.0739377
+1042,Bishopmill Service Station,585,50.8306373,-1.3882328
+1043,Blaen Y Maes Stores,824,50.834211,-0.7618678
+1044,Blakes Post Office,1003,50.8349714,-0.2065425
+1045,Blaydon Convenience Store,1543,50.8397753,-0.8508254
+1046,Boghar Bros Superstore & Post Office,529,50.8408865,-0.39289
+1047,Bo'ness Convenience Store,822,50.8409206,-1.0824516
+1048,Bootlegger's Off Licence,297,50.841822,-0.7908115
+1049,Booze & News Tamworth Rd,915,50.8422385,-0.8474391
+1050,Booze and News,1137,50.8422686,-0.7726338
+1051,Booze Express Carnoustie,309,50.84233709,-1.06165472
+1052,Booze Master,427,50.8423527,-1.053534
+1053,Boozemart,1429,50.8440452,-0.1308864
+1054,BP Plympton Service Station,212,50.8447557,-0.1169179
+1055,Bradleys Supermarkets Quorn,596,50.8454962,-0.9115229
+1056,Bradleys Supermarkets Rothley,596,50.8464216,-0.9358896
+1057,Brandon Test Store,284,50.8464439,-1.0505774
+1058,Branss Food & Wine,906,50.85121052,-1.006731155
+1059,Briardale Local Convenience Store,1198,50.8565864,-3.3926425
+1060,Broad Oak News,1132,50.8581274,-0.7839903
+1061,Broadmead Stores,989,50.861641,-0.9262864
+1062,Broadway Premier,514,50.864289,-0.0888388
+1063,Bromborough Stores,1054,50.86838914,0.601879656
+1064,Brook Street Londis,1705,50.894459,-1.3800938
+1065,Broughty Burgers,946,50.9027351,-1.0221809
+1066,Brownlie's of Biggar,1674,50.9094212,-1.3274834
+1068,Bryncoch Stores,1166,50.9112507,-1.3994148
+1069,Brynteg Premier Stores,1298,50.9129193,-1.4236149
+1070,BTP Spar Castle Donnington,873,50.915997,-3.2280005
+1072,Buchanan Convenience Store,670,50.9196342,-1.3981237
+1073,Budgens Berrymoor,120,50.92178984,-1.443867139
+1074,Budgens Blackhorse Service Station,215,50.92442906,-1.381260117
+1075,Budgens Bridgwater Service Station,214,50.9244314,-1.3813185
+1076,Budgens Brownsover,767,50.9280371,-1.4509058
+1077,Budgens Cranfield Test,136,50.93057955,-1.084084136
+1080,Budgens Kenilworth,29,50.9323404,-1.3705282
+1081,Budgens Nunnery Park Service Station,216,50.93361581,-1.444658971
+1082,Budgens of Alva,1329,50.9344829,-1.4179097
+1083,Budgens of East Finchley,394,50.9464679,-1.0082374
+1084,Budgens of Islington,395,50.95123942,0.905121242
+1085,Budgens Of Walkern,346,50.96798489,-1.30413824
+1086,Budgens Southwater,141,50.9741296,0.9650351
+1087,Budgens Thornley,1086,50.9768004,-1.4382221
+1088,Bugsy's Convenience Store,1579,50.98570033,0.939538064
+1089,Bulky Bargains,1083,50.98743,-1.4731555
+1090,Bullring Convenience Store,804,50.9902597,-1.4900886
+1091,Buns & Shakes,1574,50.99547316,-1.485095107
+1092,Burlish Park Stores,332,50.9955594,-1.4754913
+1093,Caitlin Admin Test,1617,51.017476,-3.8344224
+1094,CallumN Test Store,1078,51.02356649,-0.352347998
+1095,Calow Convenience Store,1030,51.0675111,-0.3414907
+1096,Calum McD Test Store - TESTING DO NOT ORDER,1317,51.0801649,0.6944954
+1097,Campbells Newsagents,790,51.0837434,1.1760555
+1098,Candy Stores,718,51.0838222,-1.1734175
+1099,Candybox Supermarket,1151,51.0906378,1.1856153
+1100,Carlton Convenience,492,51.0956334,-1.6618415
+1101,Casa Dundee,962,51.1211544,-0.8437552
+1102,CastleField Stores,1118,51.1242652,-0.0080622
+1103,Cathkin Convenience Store,453,51.12615669,0.971221923
+1104,Cellar 57,600,51.1266517,-2.7404673
+1105,Centra Limavady,562,51.1300976,0.8818434
+1106,Central Co-op -  Baswich Lane,287,51.1334864,-0.0174275
+1107,Central Co-op -  Hartshay Hill,287,51.146385,-2.9917068
+1108,Central Co-op - Aikman Avenue,287,51.1480848,1.2759484
+1109,Central Co-op - Alfreton,287,51.1512966,-3.0660412
+1110,Central Co-op - Allestree,287,51.1604276,0.5517957
+1111,Central Co-op - Alrewas,287,51.16360205,-0.94822526
+1112,Central Co-op - Alvaston,287,51.183263,0.357633
+1113,Central Co-op - Anstey,287,51.1850205,-0.7045131
+1114,Central Co-op - Ashbourne Road,287,51.20772,-1.4992284
+1115,"Central Co-op - Ashby De La Zouch, Market Street",287,51.2097324,1.379206
+1116,"Central Co-op - Ashby De La Zouch, School Lane",287,51.21850254,-2.966326386
+1117,Central Co-op - Atherstone,287,51.2295573,-0.1312713
+1118,Central Co-op - Beeston,287,51.2321955,-0.1687535
+1119,Central Co-op - Belper,287,51.2335371,-0.8621009
+1120,"Central Co-op - Birmingham Road, Sutton Coldfield",287,51.2454981,-0.7254528
+1121,"Central Co-op - Birmingham, Dad's Lane",287,51.2460395,-0.7547198
+1122,"Central Co-op - Birmingham, Shard End Crescent",287,51.246877,1.030157
+1123,Central Co-op - Boley Park,287,51.24832817,-0.763268526
+1124,Central Co-op - Bramcote Lane,287,51.2659446,-0.8264244
+1125,"Central Co-op - Brandhall, Tame Road",287,51.2725863,0.5242676
+1126,Central Co-op - Branston Square,287,51.27553,1.34009362
+1127,Central Co-op - Braunstone,287,51.2764718,0.5374386
+1128,Central Co-op - Breadsall,287,51.2774614,-0.7397755
+1129,Central Co-op - Brereton Way,287,51.2847586,-0.0358919
+1130,Central Co-op - Brimington,287,51.28959935,-3.011005357
+1131,Central Co-op - Broughton,287,51.291551,1.1032973
+1132,"Central Co-op - Brundall, The Street",287,51.2946816,1.0827459
+1133,Central Co-op - Bungay,287,51.3062556,0.227119
+1134,Central Co-op - Burnside Road,287,51.3066004,-0.5716877
+1135,"Central Co-op - Burton Road, Littleover",287,51.3071365,0.4088624
+1136,Central Co-op - Burton Square,287,51.3092846,-0.5752199
+1137,Central Co-op - Calow,287,51.3141569,0.8981865
+1138,Central Co-op - Carlton Colville,287,51.3185794,-0.151089
+1139,Central Co-op - Carlton-in-Lindrick,287,51.3235618,-1.2480166
+1140,Central Co-op - Castle Donington,287,51.3310235,-0.8269202
+1141,"Central Co-op - Chelmsley Wood, Chester Road",287,51.3397158,-2.7821334
+1142,Central Co-op - Clarendon Park Road,287,51.3404381,-0.2715737
+1143,"Central Co-op - Clifton, Farnborough Road",287,51.340835,-2.9689378
+1144,Central Co-op - Cotteridge,287,51.3461429,1.3918205
+1145,Central Co-op - Countesthorpe,287,51.34646242,0.520942877
+1146,Central Co-op - Cromer,287,51.3467913,-0.8079538
+1147,Central Co-op - Cropston Drive,287,51.3471867,-0.0936181
+1148,Central Co-op - Curborough Road,287,51.3490253,-0.1662428
+1149,"Central Co-op - Derby Road, Ripley",287,51.35391676,-2.92888848
+1150,Central Co-op - Dersingham,287,51.35414954,0.720832628
+1151,Central Co-op - Desborough,287,51.3593142,1.4386954
+1152,"Central Co-op - Desborough, High Street",287,51.3602149,-0.1913085
+1153,Central Co-op - Dibdale Rd West,287,51.3635156,-0.0975222
+1154,Central Co-op - Dodworth,287,51.3636555,0.5358161
+1155,Central Co-op - Duffield,287,51.368448,1.1133279
+1156,Central Co-op - Eastwood,287,51.372838,0.5577026
+1157,Central Co-op - Eccleshall,287,51.373109,0.55369288
+1158,Central Co-op - Eckington,287,51.3735802,-0.1040058
+1159,Central Co-op - Enderby,287,51.37508229,0.583995245
+1160,Central Co-op - Erdington,287,51.376863,0.5001959
+1161,Central Co-op - Eton Park,287,51.3800818,0.5477325
+1162,Central Co-op - Evington Rd,287,51.3815191,1.3378399
+1163,Central Co-op - Fleckney,287,51.3831556,0.518659
+1164,Central Co-op - Fradley Park,287,51.3865197,1.3813857
+1165,Central Co-op - Giltbrook,287,51.3865812,-2.7864098
+1166,Central Co-op - Grange Place,287,51.38934,-0.0792116
+1167,Central Co-op - Grangewood,287,51.3893841,-0.3259475
+1168,Central Co-op - Great Glen,287,51.3998763,-3.2839028
+1169,Central Co-op - Halesworth,287,51.4004572,-0.3797249
+1170,"Central Co-op - Hall Croft, Shepshed",287,51.407914,-0.1051793
+1171,Central Co-op - Hallam Crescent,287,51.4081665,-3.4811699
+1172,Central Co-op - Hallwood Road,287,51.4083931,-3.4821233
+1173,"Central Co-op - Harborne, Court Oak Road",287,51.4088791,-2.5072153
+1174,Central Co-op - Hasland,287,51.4089927,-0.2915919
+1175,"Central Co-op – Hatfield Lane, Armthorpe",287,51.4105695,-0.4874097
+1176,Central Co-op - Hatton,287,51.4106889,0.2361094
+1177,"Central Co-op - Hatton, Station Road",287,51.4127957,-3.2498512
+1178,Central Co-op - Heatherton Village,287,51.4132373,-2.7413551
+1179,Central Co-op - Hinckley Road,287,51.4134099,-0.1062063
+1180,Central Co-op - Holmcroft Road,287,51.41429397,-1.225089886
+1181,Central Co-op - Horninglow,287,51.4163982,-3.2554501
+1182,Central Co-op - Horsley Woodhouse,287,51.41978788,0.563858045
+1183,"Central Co-op - Hucknall, Watnall Road",287,51.4210219,-3.177303
+1184,"Central Co-op - Hugglescote, Oak Tree Corner",287,51.42102656,-0.141167113
+1185,Central Co-op - Ibstock,287,51.4211361,-0.0018039
+1186,"Central Co-op - Ibstock, Ashby Road",287,51.42612281,-0.052388906
+1187,Central Co-op - Inkersall,287,51.4261883,0.3756658
+1188,Central Co-op - Irthlingborough,287,51.4274172,-0.0561168
+1189,Central Co-op - Jacksdale,287,51.428123,-0.5723834
+1191,Central Co-op - Kedleston Road,287,51.4289583,-2.7767759
+1192,Central Co-op - Kettering,287,51.4294718,0.057098
+1193,Central Co-op - Kibworth,287,51.4321113,0.3933912
+1194,"Central Co-op - Kings Heath, Vicarage Road",287,51.432726,-0.4547825
+1195,"Central Co-op - Kings Norton, The Green",287,51.4327647,-0.4548205
+1196,"Central Co-op - Kingshurst, The Parade",287,51.4329856,-2.6045028
+1197,Central Co-op - Kingstanding,287,51.4339715,-0.0173416
+1198,"Central Co-op - Kirkby In Ashfield, Chapel Street",287,51.4342292,0.1771427
+1199,"Central Co-op - Kirkby In Ashfield, Skegby Road",287,51.4343242,0.0643952
+1200,Central Co-op - Kirkley,287,51.4347143,0.2154836
+1201,Central Co-op - Lake Avenue,287,51.4366887,-2.8513633
+1202,Central Co-op - Langley Mill,287,51.4387381,0.0705826
+1203,Central Co-op - Langley Park,287,51.4394583,-0.3611799
+1204,Central Co-op - Launceston Road,287,51.4399404,-2.5196677
+1205,Central Co-op - Leicester Road,287,51.4400383,-2.573416
+1206,Central Co-op - Lexington Road,287,51.4413792,-2.6020969
+1207,Central Co-op - Little Eaton,287,51.4414489,0.3745352
+1208,Central Co-op - Littleport,287,51.445328,0.0407187
+1209,Central Co-op - Loughborough Road,287,51.4458503,-2.4839669
+1210,"Central Co-op - Loughborough, Knightthorpe Road",287,51.44590325,-0.149914026
+1211,"Central Co-op - Lutterworth, Linden Drive",287,51.44876551,-0.073725248
+1212,Central Co-op - Lynton Avenue,287,51.450206,0.104959
+1213,Central Co-op - Maple Avenue,287,51.45026951,-0.419926643
+1214,"Central Co-op - March, Badgeney Road",287,51.4507837,-2.5901857
+1215,Central Co-op - Market Street Ashby,287,51.45143414,0.052343562
+1216,Central Co-op - Markfield,287,51.4534789,-0.4283985
+1217,Central Co-op - Marsh Lane,287,51.4573381,-0.1943765
+1218,Central Co-op - Marston Moretaine,287,51.4594573,-2.5487624
+1219,Central Co-op - Meadow Lane,287,51.4618292,0.3629244
+1220,"Central Co-op - Moseley, Swanshurst Lane",287,51.4619053,-2.5269064
+1221,"Central Co-op - Moulton, Stocks Hill",287,51.4620426,-3.4453006
+1222,Central Co-op - Narborough Rd,287,51.4625601,-2.5072157
+1223,Central Co-op - Newbold,287,51.46309368,0.105125793
+1224,Central Co-op - North Wingfield,287,51.4632751,-0.9764208
+1225,Central Co-op - Northfield,287,51.46336646,0.376304733
+1226,"Central Co-op - Northfield, West Heath Road",287,51.4636141,-2.6092885
+1227,Central Co-op - Oadby,287,51.464814,-0.037806
+1228,Central Co-op - Oakham,287,51.4663124,-2.5610273
+1229,"Central Co-op - Oakham, Braunston Road",287,51.4712578,-0.1685281
+1230,Central Co-op - Oakwood,287,51.4743696,-0.2440771
+1231,Central Co-op - Openwood Gate,287,51.47471682,-2.49265021
+1232,"Central Co-op - Orchard House, Papple Close",287,51.475682,-0.2394754
+1233,"Central Co-op - Orton, Ortongate Shopping Centre",287,51.4764377,-0.1059517
+1234,"Central Co-op - Osmaston Road,",287,51.4768952,-3.1869926
+1235,Central Co-op - Overfield Road,287,51.4776342,-2.5799387
+1236,"Central Co-op - Overseal, Burton Road",287,51.4782416,-3.7041363
+1237,Central Co-op - Pakefield,287,51.4788892,-2.684627
+1238,Central Co-op - Pentland Road,287,51.48041379,0.417940688
+1239,"Central Co-op - Peterborough, Hempsted, Columbus Road",287,51.4815557,-2.517456809
+1240,"Central Co-op - Peterborough, Mayors Walk",287,51.48186378,-3.171043723
+1241,Central Co-op - Pinewood Avenue,287,51.48351761,-2.579582334
+1242,Central Co-op - Polka Road,287,51.4838141,-3.2225326
+1243,Central Co-op - Prince Charles Avenue,287,51.4843157,-0.3725834
+1244,"Central Co-op - Quorn, Loughborough Road",287,51.48680671,-3.148296011
+1245,Central Co-op - Ratby,287,51.48839218,-2.624789707
+1246,Central Co-op - Raunds,287,51.4895719,-0.2228337
+1247,Central Co-op - Repton Road,287,51.48966244,-3.241522252
+1248,Central Co-op - Rothley Road,287,51.4911773,-2.7572228
+1249,"Central Co-op - Rugby, Overslade Lane",287,51.4935683,-0.7100148
+1250,Central Co-op - Rugeley,287,51.49425692,-3.218858268
+1251,"Central Co-op - Rugeley, Queensway",287,51.4964437,-0.0411333
+1252,"Central Co-op - Rugeley, Springfield Road",287,51.4968147,-2.48276
+1253,Central Co-op - Sawston,287,51.4971953,-2.5591007
+1254,Central Co-op - Sharmon Crescent,287,51.4981486,-0.3941668
+1255,"Central Co-op - Sheldon, Church Road",287,51.500848,0.0629154
+1256,Central Co-op - Shepshed,287,51.50133334,-3.576321191
+1257,"Central Co-op - Shepshed, Anson Road",287,51.5079759,-3.6072794
+1258,Central Co-op - Silkmore Lane Stafford,287,51.50917567,-3.547964016
+1259,"Central Co-op - Skegby, Mansfield Road",287,51.51096705,-3.592793038
+1260,"Central Co-op - Solihull, Lyndon Road",287,51.512606,-0.0405146
+1261,Central Co-op - Somercotes,287,51.5136023,-0.178902
+1262,Central Co-op - St Ives,287,51.5138341,-0.469593
+1263,Central Co-op - St Johns Rd,287,51.5142,-3.43246
+1264,Central Co-op - St Neots,287,51.5178192,0.0230388
+1265,"Central Co-op - Stafford, Silkmore Lane",287,51.51938385,0.443488772
+1266,Central Co-op - Stamford Road,287,51.51996525,-0.644483864
+1267,Central Co-op - Stapenhill,287,51.52003443,0.580457904
+1268,Central Co-op - Stapleford,287,51.52077021,-3.563213373
+1269,"Central Co-op - Station Rd, Narborough",287,51.5216137,-3.7106938
+1270,Central Co-op - Stone Road,287,51.5216225,-3.6973738
+1271,Central Co-op - Stretton,287,51.52257665,-3.391520271
+1272,Central Co-op - Strutt Street,287,51.5226146,0.295910528
+1273,Central Co-op - Sturdee Road,287,51.5246344,0.4479099
+1274,Central Co-op - Sussex Circus,287,51.5258267,-0.3141434
+1275,"Central Co-op - Sutton In Ashfield, Huthwaite Road",287,51.52629776,0.029893219
+1276,"Central Co-op - Sutton, Ely Road",287,51.5264168,-0.0998619
+1277,Central Co-op - Swanwick Road,287,51.5265372,-0.7374459
+1278,Central Co-op - The Precinct,287,51.5284378,-3.6928374
+1279,Central Co-op - Thrapston,287,51.52864857,-3.69299952
+1280,Central Co-op - Thringstone,287,51.5302163,0.7800005
+1281,Central Co-op - Tutbury Avenue,287,51.53025301,-3.686249309
+1282,Central Co-op - Walmley Close,287,51.5313884,0.7399901
+1283,Central Co-op - Walsall Rd,287,51.5320988,0.1463109
+1284,Central Co-op - Wardgate Way,287,51.53335686,0.151535422
+1285,Central Co-op - Warsop,287,51.53353231,-0.47381922
+1287,"Central Co-op - Warsop, Mansfield Road",287,51.5359356,-0.0963754
+1288,Central Co-op - Weston Road,287,51.5361496,-0.1164297
+1293,Central Co-op - Whetstone,287,51.5366795,0.7620635
+1294,"Central Co-op - Whetstone, Dog & Gun Lane",287,51.5389351,0.1272748
+1295,"Central Co-op - Whitwick, Market Place",287,51.54017873,0.192310266
+1296,Central Co-op - Wigston,287,51.5405258,-3.3868594
+1297,"Central Co-op - Wildwood, Stafford",287,51.5414453,-3.5794799
+1298,Central Co-op - Winshill,287,51.541676,0.0834277
+1299,Central Co-op - Wirksworth,287,51.5429228,0.1491291
+1300,Central Co-op - Wollaton Road,287,51.5435414,-0.4873949
+1301,"Central Co-op - Yardley, Stoney Lane",287,51.5436032,-0.1034895
+1304,Central Co-op - Yaxley,287,51.5447057,-0.1763764
+1306,Central Garages Keystore Cumnock,129,51.54678483,0.564107622
+1307,Central Stores Cheltenham,94,51.5480491,0.6571746
+1308,CH Brown Convenience store,373,51.5496437,-0.0359454
+1310,Chapeltown Local Post Office,557,51.5506134,-0.3391461
+1311,Chapman Butchers Glasgow,1345,51.5511579,0.0198346
+1312,Chases Stores,604,51.5528056,-1.7775228
+1313,Cheers Convenience Store,353,51.5535532,-1.7848324
+1314,Chester Road Premier,1595,51.5544559,0.1425028
+1315,Chester Road Premier - Night Menu,1690,51.55461558,-0.165990517
+1316,Chester's Premier,325,51.5547772,-3.354629
+1317,Cheynes Of Banff,1497,51.5552466,-1.7922339
+1318,Chloe C Test,701,51.55690237,-0.046681166
+1319,Chris McG - Test Store,351,51.5579007,-0.1319072
+1320,Chris Test Store,281,51.5625787,0.120888
+1321,Church Street Convenience Store,1472,51.5626321,-0.3049527
+1322,City Mart Store,0,51.5667696,-1.8008467
+1323,City Supermarket,850,51.5683054,0.491067089
+1324,CJ Lang - Test Store,667,51.570788,-3.013646153
+1325,CJLang Single Menu Test Store,667,51.57221316,-3.432765798
+1326,Clapgate Go Local,1460,51.5728103,-1.777332
+1328,Clarks Bakery,441,51.5733919,-1.7770236
+1329,Clark's Bakery - Pitkerro,441,51.57376,-0.5319344
+1330,Clarks Bakery Arbroath,721,51.5811482,-3.019269
+1331,Cleeve Premier Store,1085,51.5826108,-0.0129417
+1332,Clementine of Broughty Ferry,445,51.5833533,0.6089207
+1333,Clinton Stores,1114,51.58430328,-3.422878638
+1334,Cloverwood Store,867,51.5849553,-3.7708966
+1335,Clydebank Grocers,1026,51.5854145,-3.7710213
+1336,Co Local Castleford,987,51.5857674,-1.7749791
+1337,Co Local Colne,1070,51.5868903,-3.3133266
+1338,Cockles Convenience Store,1623,51.5869392,-0.133568
+1339,Columbia Convenience Store,933,51.58800453,-2.964152391
+1340,Connor's Convenience Store,1139,51.58810422,-2.995343768
+1341,Co-op Food - Afton Road,304,51.588868,-1.426453
+1342,Co-op Food - Ashley Down Road,304,51.5891611,-0.4816993
+1343,Co-op Food - Avenue Road,304,51.5897885,-0.1642408
+1345,"Co-op Food - Barrs Court, School Road",304,51.5928533,0.0841325
+1346,"Co-op Food - Bedminster, North Street",304,51.5940891,-3.7947451
+1347,Co-op Food - Bembridge,304,51.5945313,-3.1918494
+1348,"Co-op Food - Chichester, Stockbridge Road",304,51.5960104,-3.2715975
+1349,"Co-op Food - Clifton, Whiteladies Road",304,51.5967618,-3.3453948
+1350,"Co-op Food - Hanham, Memorial Road",304,51.5973721,-3.6401839
+1351,"Co-op Food - Keynsham, Queens Road",304,51.59797814,-2.981544176
+1352,Co-op Food - Long Down Avenue,304,51.6020851,0.468822
+1353,Co-op Food - Mill Hill Road,304,51.6023009,-3.8189881
+1354,"Co-op Food - Nailsea, Hannah More Road",304,51.6037936,0.5157901
+1355,"Co-op Food - Pill, Baltic Place",304,51.6055035,-3.6528835
+1356,"Co-op Food - Portishead, Port Marine",304,51.6072386,0.032350243
+1357,"Co-op Food - Redcliff Street, The Square",304,51.6080736,-3.1010713
+1358,Co-op Food - Ryde,304,51.6084255,-0.415266
+1360,Co-op Food - Sandown,304,51.60856885,-1.262079187
+1361,Co-op Food - Shanklin,304,51.6085759,-3.0270639
+1362,"Co-op Food - Southsea, Highlands Road",304,51.6092076,-3.6601448
+1364,"Co-op Food - St Georges, Church Road",304,51.6093547,-3.4089945
+1365,"Co-op Food - Totterdown, Wells Road",304,51.61030426,-3.090441944
+1366,Co-op Food - Two Mile Hill Road,304,51.61129992,0.513640597
+1367,Co-opFood - Carisbrooke,304,51.6116161,0.2729908
+1368,Corcraines of Portadown,1043,51.61395914,-3.443134266
+1369,Coseley Premier Store,1232,51.6139897,-3.7633183
+1370,Costcutter (Charndra Supermarket),974,51.6148007,-0.2462998
+1371,Costcutter Abronhill Market,1706,51.6189061,-3.4448227
+1372,Costcutter Ananya Store,1307,51.61970608,-3.331643735
+1373,Costcutter Barassie (Formerly Day Today),26,51.62278733,0.612948139
+1374,Costcutter Beechwood,834,51.62543191,-3.457446545
+1375,Costcutter Bramham Rd,406,51.62628297,-3.470223274
+1376,Costcutter Brunel University,380,51.6273973,-0.7415354
+1377,Costcutter Cadzow Bridge,468,51.6273973,-0.7415354
+1378,Costcutter Damson Way,1459,51.6288759,-0.4085611
+1379,Costcutter Enniskillen,167,51.6293855,-0.7791862
+1380,Costcutter Epsom,280,51.63195214,-2.675268679
+1381,Costcutter Failsworth,260,51.6321195,-3.9392899
+1382,Costcutter Fossway Newcastle,115,51.6323618,-3.6572517
+1383,Costcutter Hainton Avenue,1350,51.632725,0.8116218
+1384,Costcutter Highley,111,51.63297592,-3.968660831
+1385,Costcutter Inverleith Row,616,51.6386539,-3.8219868
+1386,Costcutter Kearsley,414,51.6388315,-0.7628979
+1387,Costcutter Kesh,225,51.6405444,-2.6593286
+1388,Costcutter Leybourne Chase,1489,51.64205334,-3.236843266
+1389,Costcutter Lumbertubs,1282,51.6420746,-1.8617737
+1390,Costcutter Mossfield Service Station,225,51.64207916,-3.235611705
+1391,Costcutter North Camp,295,51.6442807,-2.6905754
+1392,Costcutter Oakley Road,1469,51.644462,-3.0478545
+1393,Costcutter Pitshanger Road,730,51.6461848,-3.907527912
+1394,Costcutter Quarry Bank,454,51.64730184,-3.488378648
+1395,Costcutter R & B Foodstore,942,51.6490884,0.6091573
+1396,Costcutter Snowdon Parade,869,51.6500236,-3.488038
+1397,Costcutter St Andrews,668,51.6521546,-0.4326381
+1399,Costcutter St Martins,106,51.6537942,-3.9750602
+1400,Costcutter St Martins Cockshutt,106,51.6549181,-3.9539542
+1401,Costcutter Wains Grove York,405,51.656149,-0.3977375
+1402,Costcutter Wallasey,95,51.6581282,-0.3922433
+1403,Costsaver Supermarket,710,51.6593058,-4.0300544
+1404,County Express,728,51.6615708,-3.5099477
+1405,Coxford Stores,1193,51.6629269,-3.9253358
+1406,Crest of the Wave,1169,51.6697231,-3.3626396
+1407,Crofton Post Office,514,51.6704874,-3.8738244
+1408,Crondall Stores,761,51.67079193,-1.932311654
+1409,Cultenhove Post Office and Premier Store,1671,51.67214104,-3.211679612
+1410,Curries Food & Wines Keystore,1482,51.6734032,-3.5331836
+1411,Curry House Dundee,937,51.6752664,-3.9273543
+1412,D & S Convenience Store LTD,849,51.67791301,-4.162484958
+1413,DA Shop,1332,51.680899,-2.353453
+1414,Dan Convenience Store,634,51.6824489,-3.3788196
+1415,Daniel Watt Test Store,1500,51.6861737,-4.1233263
+1416,Darfield Super Save,789,51.6862149,-4.1927591
+1417,Daron Family Shopper,940,51.6863802,-0.2747392
+1418,David Automation Test - Final,1547,51.69118455,-2.458464503
+1419,Day Today - The Ten O'clock Shop,465,51.6946752,-3.2252484
+1420,Day Today Airdrie,139,51.6964449,-3.4286261
+1421,Day Today Alloa Road,1542,51.69682214,-4.148156602
+1422,Day Today Burnbank,819,51.6979797,-0.4245137
+1423,Day Today Chapelhall,103,51.6981174,-3.4097218
+1424,Day Today Clarkston,370,51.69851058,0.475683476
+1425,Day Today Doonfoot,43,51.7030424,-0.4102931
+1426,Day Today Drylaw Local,709,51.7040442,-3.4176368
+1427,Day Today Express Bothwell,820,51.7044157,-3.4098084
+1428,Day Today Express Comrie,1378,51.7111984,-0.8678019
+1429,Day Today Express Crieff,426,51.71294506,-3.039014888
+1431,Day Today Express Eliburn Minimarket,1603,51.7132441,-3.4464549
+1432,Day Today Express Fauldhouse,1517,51.71354911,-0.450444994
+1433,Day Today Express Montrose Street,1112,51.7137469,-3.4460779
+1434,Day Today Fair Deal Stores,0,51.71641958,0.475017761
+1435,Day Today Gartlea Road,1629,51.7180116,0.486578
+1436,Day Today Glenvarloch Crescent,847,51.7204957,-3.2428121
+1437,Day Today Haddington,1424,51.7215493,-4.0543883
+1438,Day Today High Blantyre,1044,51.72169586,0.489317566
+1439,Day Today Local Myre Store,927,51.7218367,-0.4105941
+1440,Day Today Lochside Ayr,339,51.7234719,0.6800177
+1441,Day Today Nafa Stores,1319,51.72348569,0.490120499
+1442,Day Today Prestonpans,48,51.7277887,-3.8604174
+1443,Day Today Salamander Place,575,51.729749,-0.8548455
+1444,Day Today Shop Cardenden,698,51.72980543,0.432103612
+1445,Day Today Sighthill,672,51.73090791,0.449603007
+1446,Day Today Strathaven,1341,51.73231188,-3.132773191
+1447,Day Today Wallyford,18,51.73570141,-3.138327375
+1448,Day Today Whitehill Store,1605,51.73684575,0.466787382
+1449,Day Today Wilson Avenue,932,51.7418316,0.6969573
+1450,Day Today Wright Street - Renfrew,1068,51.7447465,0.4592018
+1451,Day-Today Airth,487,51.7450335,-0.3014576
+1452,Day-Today Armadale,1682,51.7452772,0.6916484
+1453,Day-Today Bankton Convenience Store,1263,51.747106,0.488666
+1454,Day-Today Beith Supermarket,498,51.747106,0.488666
+1456,Day-Today Bellsbank - TESTING DO NOT ORDER,1684,51.7476212,0.496659108
+1457,Day-Today Coylton,107,51.74830303,-0.431970652
+1458,Day-Today Express Johnstone,1260,51.749235,0.4545749
+1459,Day-Today Greenhills,252,51.7509474,-0.3314125
+1460,Day-Today Lochore,1377,51.7569466,0.4732945
+1461,Day-Today Meldrum Road,386,51.7602629,-3.285828
+1462,Day-Today Whifflet,603,51.7603029,-3.285877
+1464,De Cabin Convenience Store,714,51.76413506,-3.155431499
+1465,Demo Store - AB,361,51.7645267,-0.5767554
+1467,Deneburn Stores,1213,51.7652905,-0.4622982
+1468,Devonshire Londis,425,51.76613349,-3.784972429
+1469,Di's Test Store,625,51.7738325,-0.3357128
+1470,Discount Booze - Priory Road,1432,51.7763445,0.5969609
+1472,DO NOT ORDER - TEST STORE - Caitlin,281,51.779364,-4.0209473
+1473,DO NOT ORDER - TRACYS TEST STORE,1513,51.7908313,0.627478125
+1474,DO NOT ORDER Central England / Euro Test - Alans test,287,51.79094619,-3.182387352
+1475,DO NOT ORDER TESTING - Lisa Test Store,1216,51.7928478,1.1346647
+1476,DO NOT ORDER: AF Blakemore - TEST STORE,1,51.7931963,-0.6646913
+1477,DO NOT ORDER: Filco Test Store,13,51.7953469,1.1491668
+1478,DO NOT USE - Premier Singh Stores Sunderland,192,51.7962977,-1.5458563
+1479,Don Michele,1562,51.79875868,-4.743994608
+1480,Dudley Supermarket Premier,1653,51.7988582,-4.7442521
+1481,Dumbarton Road Grocers,1320,51.79999672,-3.221285373
+1482,Duncombe Premier Store,1251,51.8035928,1.1828812
+1483,Dunnings Premier,1073,51.8048988,0.6253273
+1484,Durham Food Store,1174,51.8055149,-3.8744651
+1485,Durham Road Premier Store,951,51.8082354,-2.72598
+1486,Dursley News,1262,51.8100428,1.0225212
+1487,Dyas Local,1607,51.8103472,1.0284901
+1488,E & S Convenience Store,1479,51.81599948,0.636245407
+1489,Earls Supermarket,799,51.819698,-4.4999797
+1490,East Pentwyn Store,1703,51.8230707,1.0235675
+1491,Eastfield Stores,462,51.8314861,1.2453624
+1492,Easton Shop,1274,51.8333084,1.2460872
+1493,EAT 17 SPAR Bishop's Stortford,181,51.8355077,0.6993059
+1494,EAT 17 SPAR Hammersmith,0,51.8366169,1.1402732
+1495,EAT 17 SPAR Walthamstow,191,51.8439998,1.2497995
+1496,Eddies Shoppers Greenock,842,51.8461767,0.6217468
+1497,Edwards Market,897,51.8492872,1.2725863
+1498,Ellie Test Store - DO NOT ORDER,282,51.8607496,0.9600084
+1499,Eltham News,1228,51.86308847,-2.590303058
+1500,Elux Superstore,1491,51.865983,0.5297
+1501,Emneth Premier,1127,51.866513,0.9621678
+1502,Empire Store,978,51.868491,0.5562386
+1503,Empire Store Late Night,1315,51.870286,0.1600465
+1504,EoE Co-op -  Coggeshall,234,51.8710999,0.6902687
+1505,EoE Co-op - Aldeburgh,234,51.871337,0.8726182
+1506,EoE Co-op - Barking Road,234,51.874584,0.9233935
+1507,EoE Co-op - Belstead Hills,234,51.8746206,0.913671
+1509,EoE Co-op - Beresford Road,234,51.87673239,0.94600527
+1510,EoE Co-op - Bramford,234,51.8773403,0.5712246
+1511,EoE Co-op - Brantham,234,51.878559,0.8447845
+1512,EoE Co-op - Brightlingsea,234,51.8794272,0.9058663
+1514,EoE Co-op - Broke Hall,234,51.8798125,0.7878563
+1515,EoE Co-op - Brunswick Road,234,51.8798351,0.7869757
+1516,EoE Co-op - Burnham,234,51.8806426,0.8649717
+1517,EoE Co-op - Caister On Sea,234,51.880868,-0.5127885
+1518,EoE Co-op - Cannerby Lane,234,51.884155,0.9139662
+1519,EoE Co-op - Catton Grove,234,51.8900594,0.900702
+1520,EoE Co-op - Cauldwell Hall Road,234,51.8909996,0.936433
+1521,EoE Co-op - Chantry,234,51.8919312,-0.3880805
+1522,EoE Co-op - Colchester Road,234,51.89339216,-2.494062749
+1523,EoE Co-op - Colman Road,234,51.894696,0.9286049
+1524,EoE Co-op - Combs Ford,234,51.9009887,0.5536618
+1525,EoE Co-op - Connaught Avenue,234,51.9029907,0.9243368
+1526,EoE Co-op - Coopers Lane,234,51.90726586,-2.07971924
+1527,EoE Co-op - Costessey,234,51.9117544,-0.5175803
+1528,EoE Co-op - Dales Road,234,51.9129392,0.8540574
+1529,EoE Co-op - Earlham Green,234,51.9188616,-0.1273001
+1530,EoE Co-op - Earls Colne,234,51.9236771,1.2308669
+1531,EoE Co-op - Felixstowe,234,51.9280098,0.6986157
+1532,EoE Co-op - Fifers Lane,234,51.9303984,1.2438667
+1533,EoE Co-op - Foxhall Road,234,51.93081364,1.246442012
+1534,EoE Co-op - Framlingham,234,51.9332969,1.2574434
+1535,EoE Co-op - Frinton,234,51.9336612,1.2569457
+1536,EoE Co-op - Fronks Road,234,51.9356295,1.2788334
+1537,EoE Co-op - Gainsborough,234,51.936658,0.6305569
+1538,EoE Co-op - Garrick Way,234,51.9374688,1.2811152
+1539,EoE Co-op - Gorleston,234,51.942992,1.2546573
+1540,EoE Co-op - Greenstead,234,51.9432415,0.6359851
+1541,EoE Co-op - Hadleigh,234,51.9476344,1.0601011
+1542,EoE Co-op - Hall Road,234,51.9637314,1.3343718
+1543,EoE Co-op - Halstead,234,51.9652832,1.0651515
+1544,EoE Co-op - Harleston,234,51.966313,1.3522626
+1545,EoE Co-op - Harwich Road,234,51.9689052,1.3641633
+1546,EoE Co-op - Hasketon Road,234,51.9707378,1.3413751
+1547,EoE Co-op - Hatfield Peverel,234,51.9724345,1.3376288
+1548,EoE Co-op - Haughley,234,51.9762054,0.5933422
+1549,EoE Co-op - Heartsease,234,51.9851047,1.1560781
+1551,EoE Co-op - Heath Road,234,51.9909029,-0.2241707
+1552,EoE Co-op - Hellesdon,234,51.99183167,-1.755748718
+1553,EoE Co-op - High Street Dovercourt,234,51.9955934,-2.1381548
+1555,EoE Co-op - Holbrook,234,51.9969009,-0.719989
+1556,EoE Co-op - Holland On Sea,234,52.0080772,-0.3037181
+1558,EoE Co-op - Horsford,234,52.0151224,-0.7274551
+1559,EoE Co-op - Kelvedon,234,52.0310285,1.1977576
+1560,EoE Co-op - King Street,234,52.0362216,1.1814606
+1561,EoE Co-op - Lawling Avenue,234,52.036528,-2.4224532
+1562,EoE Co-op - Leiston,234,52.0389295,1.1179989
+1563,EoE Co-op - Long Melford,234,52.0408758,1.1899555
+1564,EoE Co-op - Long Stratton,234,52.0426608,1.1085979
+1567,EoE Co-op - Lovelace Road,234,52.0445892,0.9540922
+1568,EoE Co-op - Maldon,234,52.0456899,1.2050881
+1569,EoE Co-op - Manningtree,234,52.0458377,1.1228627
+1570,EoE Co-op - Mersea Rd,234,52.0483797,1.184728
+1571,EoE Co-op - Mile Cross,234,52.0492572,1.1546386
+1573,EoE Co-op - Norwich Station,234,52.0536314,1.1728972
+1574,EoE Co-op - Old Barrack Road,234,52.0584186,1.1827638
+1575,EoE Co-op - Old Heath,234,52.0613203,1.1988728
+1576,EoE Co-op - Onley Street,234,52.0614844,1.1742814
+1578,EoE Co-op - Out Risbygate,234,52.0617457,-1.3324564
+1579,EoE Co-op - Parkfields,234,52.0634821,-0.5479322
+1582,EoE Co-op - Pinewood,234,52.0684158,1.193338
+1583,EoE Co-op - Rands Way,234,52.0697132,1.179607
+1584,EoE Co-op - Ravenswood,234,52.0737767,1.1454197
+1585,EoE Co-op - Riverside,234,52.0746992,1.1182919
+1586,EoE Co-op - Rosehill,234,52.0750814,-4.157823187
+1587,EoE Co-op - Rushmere,234,52.0758934,1.0969227
+1588,EoE Co-op - Saxmundam Road,234,52.0771564,0.7164139
+1589,EoE Co-op - Sible Hedingham,234,52.0779899,-0.0552035
+1590,EoE Co-op - Silver End,234,52.0798195,1.1372482
+1591,EoE Co-op - Spixworth,234,52.0863141,-1.7497841
+1592,EoE Co-op - Stanway,234,52.0873724,-1.9639828
+1593,EoE Co-op - Station Road,234,52.0896222,-1.7672768
+1594,EoE Co-op - Thorpe St Andrew,234,52.0910485,1.3014645
+1595,EoE Co-op - Toftwood,234,52.0929454,1.31721
+1596,EoE Co-op - Tuckwood,234,52.0970068,1.302128
+1597,EoE Co-op - Vernon Street,234,52.1032598,0.6726646
+1598,EoE Co-op - Wadgate Road,234,52.111831,-1.921324
+1599,EoE Co-op - Walton,234,52.115525,-2.3112937
+1600,EoE Co-op - Walton-on-the-Naze,234,52.1225782,0.1694939
+1601,EoE Co-op - Whitehouse,234,52.12343306,0.169791165
+1602,EoE Co-op - Wickham Market,234,52.1320308,-2.0724838
+1603,EoE Co-op - Wimpole Road,234,52.1329003,-0.2942633
+1604,EoE Co-op - Witham,234,52.149053,1.0532578
+1605,EoE Co-op - Wivenhoe,234,52.1511108,1.3631196
+1606,EoE Co-op - Wood Road,234,52.1521158,1.6012271
+1607,EoE Co-op - Woodbridge,234,52.1544325,-0.4418232
+1608,EoE Co-op Needham Market,234,52.1554588,1.0509149
+1609,EoE Co-op Old Road,234,52.1574339,1.5916821
+1610,Eoe Co-op Prettygate,234,52.1674582,-1.3908277
+1611,EoE Co-op Shrub End,287,52.1759601,-1.2453837
+1612,EoE Co-op West Bergholt,234,52.1795749,0.995592
+1614,Ermine Local,821,52.1868578,-2.2487297
+1615,Essentials Gillingham,657,52.18834198,-2.172228494
+1616,Essentials Off Licence & Convenience Store,1247,52.1919902,-1.6025723
+1617,Eurospar Dolgellau,180,52.2062382,1.5792105
+1618,EVF Today's Alexander Drive,352,52.20926488,-2.187132003
+1619,EVF Today's Brayhill,352,52.21534106,0.01240317
+1620,EVF Today's Foxdale,352,52.2156123,-1.4301685
+1621,EVF Today's Kirk Michael,352,52.2157836,0.1313553
+1622,EVF Today's Laxey,352,52.2196365,0.9675056
+1623,EVF Today's Lezayre Road,352,52.2199852,-3.9327082
+1624,EVF Today's Little Switzerland,352,52.2218037,1.3437253
+1625,EVF Today's Peel Road,352,52.22262286,-2.73372988
+1626,EVF Today's Peveril Road,352,52.2256457,-0.8992233
+1627,Eyres Convenience Store,1051,52.2277238,-0.2867415
+1628,Fairways Supermarket,882,52.22841144,-0.106046466
+1629,Family Choice Hamilton,25,52.2286356,-0.2520556
+1630,Family Shopper - Little Hulton,436,52.2301526,-2.1903432
+1631,Family Shopper Abroath - Montrose & Brechin,8,52.2301653,-2.1904327
+1632,Family Shopper Arbroath,8,52.236502,-1.4563198
+1633,Family Shopper Arbroath - Brechin & Montrose,8,52.2365541,-1.4556405
+1634,Family Shopper Arbroath - Master,0,52.2474275,0.6990627
+1635,Family Shopper Barnsley Road,1207,52.2546387,-1.3880457
+1636,Family Shopper Blackpool,1304,52.2586944,-2.1638337
+1637,Family Shopper Broadoak Road & Dessert Bar,143,52.2633438,0.7036649
+1638,Family Shopper Conisbrough,506,52.2640244,-0.8349031
+1639,Family Shopper Darfield,1369,52.2687219,-1.5388149
+1640,Family Shopper Dollar Crescent,428,52.2740615,-3.008135
+1641,Family Shopper Dronfield,715,52.2787921,-1.5334379
+1642,Family Shopper Hexham,928,52.2822717,-0.6094029
+1643,Family Shopper Lochee - Master Menu,582,52.2829284,-1.3981798
+1644,Family Shopper March Subway,140,52.288514,-0.8525643
+1645,Family Shopper Northfield Stores,630,52.2911461,-0.7023253
+1646,Family Shopper Paisley,110,52.2922733,-1.5493499
+1648,Family Shopper Pyle Stores,881,52.2945111,-1.586717
+1649,Family Shopper Risca,121,52.2973314,-0.628533506
+1650,Family Shopper Risca Park,777,52.31056093,-1.50038242
+1651,Family Shopper Stoke,324,52.3127393,-2.5930128
+1652,Family Shopper Wawne,1509,52.3262118,-0.6098434
+1653,Far Lane Stores,1355,52.33587992,-0.077278706
+1654,Fawdon Wine Centre,1100,52.3362908,-1.5795573
+1655,Feltwell Spar,1578,52.3383512,-0.1698215
+1656,Ferryhill Stores,778,52.33874137,-1.293304861
+1657,Fforest Stores,538,52.34016077,-2.067009283
+1658,Filco - Bryntirion,13,52.3407669,1.5029116
+1659,Filco - Caerau,13,52.3413181,-0.5393206
+1660,Filco - Cowbridge,13,52.34367284,-0.075695073
+1661,Filco - Llantwit Major,13,52.34528982,-0.536074217
+1662,Filco - Maesteg,13,52.3454037,0.5228192
+1663,Filco - North Cornelly,13,52.345583,-1.1356388
+1664,Filco - Sarn,13,52.346603,-2.292247
+1665,Filco - Taibach,13,52.346952,-2.27619
+1666,Filco - Talbot Green,13,52.35056653,-1.28249404
+1667,Findon Road Service Station,805,52.3508279,-1.7776037
+1668,Food & Wine Cellars,885,52.3553546,-2.2891304
+1669,Frankie's Fish Shack,888,52.3569202,0.1487101
+1670,Freemantle Supermarket,1469,52.3587665,-1.2371322
+1671,Fresh in Falkirk formerly SPAR Maggie Woods Loan,499,52.3588746,-1.2207049
+1672,Freshfields Market,338,52.3594532,-1.2916287
+1673,Frost Premier,389,52.3600958,-1.2752723
+1674,Fulwell Local,415,52.36066287,-2.876820212
+1675,Fulwell News & Off-licence,580,52.3607853,-3.4266162
+1676,Ganapathy Shell Corner Off - Licence and Newsagent,1297,52.3644415,-1.4363124
+1677,Gareth Rees Newsagents,293,52.3672001,-2.7204529
+1679,Garland Convenience Store,788,52.3678463,-1.2079601
+1680,Garn Store Premier,1375,52.3732603,-1.2763718
+1681,Gartmorn Stores,1381,52.3739138,-0.7759047
+1682,Gemma's Convenience Store,531,52.3797853,-1.3036356
+1683,General Store Campdale Road,271,52.3855302,-1.2492897
+1684,Georgetown Premier,388,52.38558929,-1.883630765
+1685,Gian Foodstore,800,52.39048,-0.7186595
+1686,Gills Convenience Store,1625,52.390625,-1.6490655
+1687,Gilmerton Grocers,612,52.3907047,-1.504225
+1689,Girish's Premier @ Barmulloch,949,52.3914943,-0.7467195
+1690,Glasgow - Exhibition,0,52.3917681,-1.2433651
+1691,Glen Road Stores - Peebles,314,52.3918627,-2.2601071
+1692,Glenwood Centre Premier & Post Office,816,52.3920223,0.132587
+1693,GNS Convenience Store,1239,52.3920665,-2.2461107
+1694,Go Local - All In One Express,908,52.3938769,-0.7018651
+1695,Go Local - Arrowe Park,482,52.3978974,-0.5346859
+1696,Go Local - Pam's,1411,52.39800673,-1.823921456
+1697,Go Local - The Sky Farm Shop,548,52.3995294,-1.5312725
+1698,Go Local Alford,1303,52.3995372,0.2641463
+1699,Go Local Bag Lane Minimart,1027,52.4013153,-1.4661817
+1700,Go Local Beechwood Convenience,1040,52.4027534,-0.7162947
+1701,Go Local Birkhill Stores,1268,52.4029167,-0.715066
+1702,Go Local Birley Moor,817,52.4032985,1.2995489
+1703,Go Local Chester Rd,1275,52.40365512,-0.073450021
+1704,Go Local Cottage Beck Road,825,52.4037745,-1.5631165
+1705,Go Local Davenport,1052,52.4041723,-0.7302211
+1706,Go Local Duchy Stores,503,52.4058389,-1.5659414
+1707,Go Local Edenthorpe,1096,52.4067,-1.5772
+1708,Go Local Extra Ashton,419,52.4073133,-1.96426727
+1709,Go Local Extra Beckfield Lane Acomb,536,52.40731657,-1.96421899
+1710,Go Local Extra Birches Head Store,1062,52.40765905,-1.928344687
+1711,Go Local Extra Birkenhead,934,52.4116867,-1.9896816
+1712,Go Local Extra Blackburn,1427,52.412134,-1.570446
+1713,Go Local Extra Caithness Road,1106,52.4121382,-1.5473866
+1714,Go Local Extra City Road Sheffield,1293,52.4121382,-1.5473866
+1715,Go Local Extra Coldhurst,1636,52.412295,-0.7214832
+1716,Go Local Extra Coventry Road,1692,52.4124894,-1.596224
+1717,Go Local Extra Greenwich Avenue,1363,52.41412242,-4.085781514
+1718,Go Local Extra Kirklington Road,525,52.4157526,-4.0830649
+1719,Go Local Extra Newbridge Road,1291,52.4159636,-1.4624647
+1720,Go Local Extra Oldham Road,349,52.41601688,-1.928730801
+1721,Go Local Extra Redcar,1544,52.41625577,-4.079775895
+1722,Go Local Extra Sai Stores,1037,52.4176318,-1.4594956
+1723,Go Local Extra Town Moor,742,52.4186497,-1.4741069
+1724,Go Local Extra Trinity,1546,52.4248537,-1.5037911
+1725,Go Local Extra Wallasey,631,52.42789705,-1.905891531
+1726,Go Local Extra Wallsend,1187,52.4290828,-1.7979389
+1727,Go Local Fairway News and Booze,1249,52.4304845,-1.5322045
+1728,Go Local Fleet Stores Convenience,1040,52.4306572,-1.4842793
+1729,Go Local Food World,863,52.43384024,-1.857842557
+1730,Go Local Greenfield,1301,52.43703292,-1.908349963
+1731,Go Local Hazel Terrace,1098,52.4375809,-1.6487329
+1732,Go Local Higher Bebington,277,52.44149258,-0.821384283
+1733,Go Local Hoyland,546,52.4423049,-1.5195784
+1734,Go Local Junction Lane,997,52.4447185,-0.8189293
+1735,Go Local Kinnerton,1305,52.4485818,-1.794444
+1736,Go Local Moss Lane,755,52.4486572,-2.3823074
+1737,Go Local Normanton,545,52.4486911,-0.1067662
+1738,Go Local Saltergill Convenience,1040,52.4492551,-3.5396228
+1739,Go Local Selva Store,1449,52.45033537,1.450546402
+1740,Go Local Shireoaks Post Office,1283,52.4521736,-1.4857738
+1741,Go Local Streethouse Convenience Store,1029,52.453859,1.7302541
+1742,Go Local Tamworth,845,52.4567333,0.3063489
+1743,Go Local Ushaw Moor,907,52.45725595,-1.95189086
+1744,Go Local Ushaw Moor - After Hours,907,52.457468,-2.146829
+1745,Go Local Wolviston Convenience,1039,52.4575242,1.7040296
+1746,Grab n Go @ Anne's Store,1568,52.45757377,-1.211530435
+1747,Graig Convenience Store,1405,52.45977458,-2.165727012
+1748,Grainger Park Store,957,52.4598113,-2.0866161
+1749,Grandad's Off Licence,266,52.46021063,0.301862313
+1750,Grandholm Mini Market,972,52.46092755,-1.982761832
+1751,Great Bridge News & Booze,1122,52.463537,-1.7765271
+1752,Green Lane Food Store,775,52.4638147,-2.0767421
+1753,Green Lane News,984,52.46383816,1.716287607
+1754,Green Shop,818,52.4638922,-1.8363868
+1755,Greens News & Food,1516,52.4647123,-2.0861375
+1756,Greens of Crossford,1209,52.46670145,1.743628441
+1757,Greens of Lanark,40,52.4676241,-1.8106335
+1758,Griffiths Garage,539,52.46851966,-2.006584403
+1759,Grossetts Butchers,451,52.470369,-2.1069652
+1760,Guneets Premier,1631,52.4704072,-2.033499
+1761,H & Jodie's Nisa Local,30,52.47094366,-2.016559157
+1762,H K News & Booze,1016,52.4741119,-1.8516866
+1763,H&J News,1627,52.475656,-2.1328515
+1764,H&N Mini Mart,508,52.4759586,-1.8932888
+1765,H&R Food and Wine,1331,52.47614507,-1.424550697
+1766,H&V Food and Wine,764,52.4765814,-0.9256673
+1767,Haddington Wines & Whiskies,1424,52.4768216,-1.4230263
+1768,Harborne News,1324,52.4784938,-1.7268438
+1769,Harbury Village Store,435,52.4784938,-1.7268438
+1770,Harshan Ltd Cotswolds Service Station,1300,52.47985258,-1.834858254
+1771,HAWKS LOCAL KINGSTON,0,52.4804567,-1.789235805
+1772,Haydn Road Convenience store,586,52.4805997,-2.1647085
+1773,Hayer News and Wine,685,52.4815939,-1.9690421
+1774,Heartland Test Store,1519,52.4827708,-2.1735912
+1775,Heath End Road Stores,660,52.4834276,-1.7817955
+1776,Heath Mini Market,1395,52.48390167,-1.473352702
+1777,Hebburn Mini Mart,983,52.4858545,-1.7877837
+1778,Hendon Stores,574,52.48624,0.5219944
+1779,Henry's Coffee House,1264,52.487294,1.233842
+1780,Hewitt Stores Premier,1675,52.4881828,-1.7940889
+1781,High Farm Convenience Store Ltd,1235,52.4938014,-0.0242896
+1782,Hightown Premier Stores,526,52.4942004,-1.7504053
+1783,Hinkler Road Convenience Store,682,52.49489887,-1.913502428
+1784,HoE - Test Store (Do not order),667,52.495246,-0.6979164
+1785,HOE Test Store Do Not Use!,236,52.4960705,-2.1676282
+1786,HOE VME Test,361,52.50003774,-2.173758194
+1787,Hollinswood Local,570,52.5010754,-2.1227196
+1788,Hollyhedge Convenience Store,1302,52.5030534,-1.7491007
+1789,Holywell Convenience Store Premier,1654,52.5045113,-1.5666615
+1790,Hoopern Street Premier,1556,52.50606867,-1.435387431
+1791,Horsley Hill Convenience Store,719,52.5091728,-2.1172732
+1792,Horsley Hill Premier Store,860,52.5120833,-1.456505
+1793,Huddersfield Super Saver,700,52.5132226,-1.4861399
+1794,Hummy test do not order,1514,52.51436222,-1.444818817
+1795,Hyare News - Premier,1507,52.5147094,-2.12688
+1796,Hyper Store,1669,52.5169323,-2.10563
+1797,IAD Food & Wine,1374,52.51730301,-1.856324673
+1798,Iriana Convenience Store,894,52.5200181,-1.4915265
+1799,Jacks Keystore Paisley West End,1243,52.5200738,-0.2593054
+1800,Jaesy Premier Store,1214,52.52049055,-1.519610882
+1801,Jay's Food & Wine,1116,52.5221077,-1.4742074
+1802,Jaz Convenience,1488,52.5232395,-2.0998043
+1803,JD's Newz & Viewz Sittingbourne,34,52.524472,-1.8372413
+1804,JD's Off Licence,266,52.5244769,-1.531541
+1805,JD's Off Licence Crewe,298,52.5253729,-1.3477794
+1806,Jenkins News Food & Wine,1694,52.5261081,-1.9296567
+1807,JG Food News and Wine,1450,52.5264977,-1.8570857
+1808,Jims Food & Wine,1053,52.5286057,-1.9980595
+1809,JJ Convenience Store,621,52.5288537,-2.0332993
+1810,Johal's Convenience,610,52.52936582,-1.514552993
+1811,Joshua's,1601,52.5308166,-1.5052523
+1812,Just fresh @ Premier Express,1247,52.53090395,-1.890385296
+1813,Just Local,1572,52.5340267,-1.3750131
+1814,JWAYZ Kirn Variety Store,1219,52.5348425,-1.9196021
+1815,K&J Convenience Store,982,52.5351024,-1.8507622
+1816,K&P Supermarket,1503,52.5353052,-1.8269234
+1817,Kamille Convenience store,1525,52.5354451,-1.2815325
+1818,Karls Test Store,361,52.53581304,-1.044863788
+1819,Kaths Best One,632,52.535894,-1.4456284
+1820,Kavery Convenience Store,796,52.5365608,-2.1865541
+1821,Kaz's Corner Shop,745,52.5365779,-1.9295585
+1822,Kearsney Convenience Store,838,52.53705367,-1.523879298
+1823,Kegs N Blades,69,52.5370547,-0.998657364
+1824,Kelly’s Kitchen,62,52.537392,-1.8362517
+1825,Kevin's Best One,1418,52.5375498,-1.827265255
+1826,Key Korner Service Station,542,52.5377965,-1.8538141
+1827,Keystore - Cowal View,956,52.5384013,-2.0678749
+1828,Keystore Barrhead,622,52.5400468,-1.800436
+1829,Keystore Bearsden,797,52.5404949,-1.8843634
+1830,Keystore Bonhill,60,52.5406837,-1.8844826
+1831,Keystore Bonnybridge,114,52.5407422,-1.8700507
+1833,Keystore Cardonald,1071,52.5419565,-2.0807591
+1834,Keystore Carmyle,362,52.5431068,-0.301719
+1835,Keystore Coatbridge,152,52.5437621,-1.9025147
+1836,Keystore Corseford,174,52.5456098,-2.0364234
+1837,Keystore Deveron,910,52.5474059,-2.1093234
+1838,Keystore Express Ayr,891,52.54748189,-2.079410427
+1839,Keystore Express Haymarket,1359,52.5477103,-0.2775417
+1840,Keystore Express McLelland Drive,892,52.5480606,-2.1310356
+1841,Keystore Express Woodmill,1689,52.54850836,-1.824035426
+1842,Keystore Grangemouth,77,52.5488313,-1.2774706
+1843,Keystore Greenock,555,52.54926484,0.097849895
+1844,Keystore Grieve Road,955,52.54951569,0.087727343
+1845,Keystore Leslie,1447,52.5509081,-0.2500131
+1846,Keystore Maybole,213,52.5531305,-1.9116328
+1847,Keystore Milngavie Ltd,259,52.5534198,-1.1374342
+1848,Keystore More Armadale,387,52.5541046,-1.9974936
+1849,Keystore More Baldwin Avenue,1182,52.5547726,-1.8834611
+1850,Keystore More Hurlford,828,52.5551398,-2.0229521
+1851,Keystore More Kilmarnock,46,52.55552998,1.233561496
+1852,Keystore More Kinross,1290,52.5569906,-1.9113098
+1853,Keystore More Kirkcaldy,1657,52.5573022,-0.130899
+1854,Keystore More Mount Florida,433,52.55796382,-2.071328991
+1855,Keystore More Plean,1289,52.5605861,-3.1478524
+1856,Keystore More Tillicoultry,1420,52.5625453,-1.1804429
+1857,Keystore More Townhill,1610,52.5625453,-1.1804429
+1858,Keystore More Westerton,1593,52.5643762,-2.0160661
+1859,Keystore Moredun,1316,52.565049,-1.6811053
+1860,Keystore Peebles,1466,52.5658014,-2.0407019
+1861,Keystore Polmont,77,52.56702714,-2.034556913
+1862,Keystore Shortlees,1510,52.56755352,-1.682014544
+1864,Keystore Smithycroft Road,1020,52.5681727,-1.3462503
+1865,Keystore Thornliebank,925,52.5685402,-2.1242303
+1866,Keystore Wishaw,560,52.57021304,0.85733746
+1867,Khurmis Off Licence,724,52.5707365,-2.08983
+1868,Khushi Local,653,52.5716428,-1.2037738
+1869,Kidsgrove Convenience Store,1021,52.5740163,1.7147477
+1872,Kilbarchan Convenience Store,1453,52.5746869,-1.0334531
+1873,Kimy Off Licence,1349,52.5760983,-1.1106522
+1874,King Rooster Peri Peri,1683,52.5768989,-1.5475
+1876,Kings Wines,408,52.5784011,-0.2590437
+1877,Kingskerswell Service Station,1633,52.5797659,-1.1326185
+1878,Kingsway local,1000,52.5799437,-2.068287
+1879,Kingswood Food and Wine,835,52.5832462,-1.644671526
+1880,Kintillo Newsagent,1321,52.5849137,-1.1189984
+1881,Kirkdale Convenience Store,756,52.5869754,-2.0018406
+1882,Kirks Korner Convenience Store,377,52.5872217,-1.2074261
+1883,Kittsgreen Convenience Store,369,52.5888776,-1.9951055
+1884,Knight’s Convenience Store,636,52.5892884,-1.1408943
+1885,Kristina's Test Store,285,52.59048448,-0.268985212
+1886,Kristina's Test Store 2,285,52.5908145,-1.9964524
+1887,KuKu's Cupar,866,52.5926786,-2.0616271
+1888,L&M Stores Premier,1115,52.59272174,-2.055923939
+1889,Lake Avenue Stores & PO,393,52.59391726,-2.559092974
+1890,Laksa-m News and Wine,802,52.5951597,-1.1565425
+1891,Lane Supermarket,918,52.59547,-2.5583317
+1892,Launching Soon - Heathgate Store,1660,52.5967511,-2.0324031
+1893,Launching Soon - Hemmings Stores,1693,52.5987183,-1.6839438
+1894,Le Supermarche Paddington,248,52.5990511,-1.8476255
+1895,Lees Keystore,618,52.5994383,-1.0628102
+1896,Lemington Go Local & Post Office,768,52.5997879,-1.120405
+1897,Lennox Food & Convenience,1700,52.6012181,-2.0376333
+1898,Les Turriff,449,52.6018623,-0.2313437
+1899,Lesh Lane Store,861,52.6056914,-1.6155977
+1900,Lets Go Local,1087,52.6072456,0.0575597
+1901,Levenhall Village Store,1473,52.6081803,1.282562
+1902,Lheas Offlicence,731,52.608516,-1.9871435
+1903,Lifestyle Express - Stoke Lane,703,52.6098011,-1.1781375
+1904,Lifestyle Express Church Road,583,52.6104463,-1.949962
+1905,Lifestyle Express Galston,994,52.61438241,-1.922013152
+1906,Lifestyle Express Hill of Beath,810,52.6150907,-1.120333
+1907,Lifestyle Express Scotstounhill,1079,52.6175463,-1.1721121
+1908,Lifestyle Express Stewarton,911,52.6176553,-1.650835
+1909,Lifestyle Extra Blacklands Stores,669,52.6176553,-1.650835
+1910,Lifestyle Extra Ferguslie,442,52.6186981,1.2979174
+1911,Lifestyle Max,924,52.620484,-1.6114805
+1912,Lifestyle Tower Drive Store,720,52.6205945,-1.9548328
+1913,Lime Store Off-Licence,1092,52.621036,-1.0756494
+1914,Liquor Barrel Glasgow,1103,52.62220285,-1.663962491
+1915,Liquor Land,944,52.6224866,-1.1554254
+1916,Liquor Mart,837,52.6225392,1.2511569
+1917,Liquor Save,1011,52.62270655,1.24167005
+1918,Liscard Premier Stop & Shop,609,52.6229406,1.2762052
+1919,Local Express Bebington,1155,52.6241966,1.730886
+1920,Lock Lane Premier Store,1357,52.6248612,-1.4020283
+1921,Loco Ashcroft Rd,846,52.6252314,-1.1070582
+1922,Londis A&B Booze 4 U,534,52.625365,-1.107414
+1923,Londis Anlaby Road,1392,52.6254482,1.2602832
+1924,Londis Balls of Hawthorn,1511,52.62564452,1.426256754
+1925,Londis Barnes,411,52.62649948,-1.201835632
+1926,Londis Bexley Park,1413,52.6269272,1.3064928
+1927,Londis Blackhill Stores,1212,52.6276586,-1.668059
+1928,Londis Boughton Road,1237,52.62849056,-1.675768644
+1929,Londis Brean,1223,52.6288146,-1.6794458
+1930,Londis Cambuslang,734,52.6295941,1.2471745
+1931,Londis Cannock,1612,52.629852,-1.9682281
+1932,Londis Carlton,473,52.6321534,-1.0724024
+1933,Londis Carstairs Junction,532,52.6330246,-1.6790367
+1934,Londis Caterways,0,52.633183,-1.6762331
+1935,Londis Chesterfield Test,0,52.634053,-1.6970557
+1936,"Londis Cheylesmore, Quinton Coventry",122,52.634682,1.3470442
+1937,Londis Christchurch,3,52.6355791,0.1721113
+1938,Londis Clydach Stores,1643,52.63711206,-1.191157285
+1939,Londis Cocktails Off Licence,809,52.6376993,1.3104047
+1940,Londis Colwyn Avenue,1309,52.6408422,-1.1512535
+1941,Londis Cottingham Road,639,52.6409708,1.3373563
+1942,Londis Cricklade,73,52.6411865,0.2091356
+1943,Londis Drinks Hub,1152,52.64355665,-1.701761064
+1944,Londis Felbridge,1561,52.6442347,-1.0570297
+1945,Londis Gaol Road,270,52.64609621,-1.243387731
+1946,Londis Gerrards Cross,617,52.64644348,-1.176149076
+1947,Londis Goldenhill,1343,52.6474231,1.2350677
+1948,Londis Goresbrook Road,576,52.6479727,1.7268466
+1949,Londis Harefield,137,52.65073256,-2.441952719
+1950,Londis Holyport,267,52.6514984,1.2916243
+1951,Londis Kelvindale,466,52.6529923,1.3228457
+1952,Londis Kexborough,288,52.6532951,1.2799578
+1953,Londis Kings Park,331,52.65764197,-2.017453075
+1954,Londis Kirkintilloch,134,52.6600981,-1.066912
+1955,Londis Laceby,782,52.6628231,0.9395116
+1956,Londis Lydiate,1396,52.6631011,-1.225374045
+1957,Londis Messingham,1434,52.6648659,-2.4389578
+1959,Londis Newport,165,52.6648899,1.2891155
+1960,Londis Newport - St James Street,1576,52.665489,1.2644611
+1961,Londis North Anston Post Office,601,52.668449,-0.737660601
+1962,Londis Oaktree Rd Southampton,3,52.67301233,-2.43724823
+1963,Londis Otley,173,52.6730749,-1.1855872
+1965,"Londis Parkhouse, Crowhill Street",255,52.67324936,-1.76270584
+1966,Londis Pinhoe Road,1520,52.67485121,-2.772578058
+1967,Londis Queen Margaret Drive,713,52.6762955,-0.1684341
+1968,Londis Solo Baillieston,61,52.67843277,-0.713218107
+1969,Londis St Johns,327,52.6787221,-1.1191303
+1970,Londis St Mary's Exeter,119,52.6791308,-1.9177451
+1971,Londis St Richards,420,52.6800493,-1.8058186
+1972,Londis Stenhousemuir,329,52.6823555,-2.0292395
+1973,Londis Sutton,276,52.6824651,0.9381353
+1974,Londis The Broadway,1154,52.68569864,-1.278212791
+1975,Londis Thorngumbald,477,52.6877094,1.3260792
+1976,Londis Towpath,112,52.6905718,-2.0341704
+1977,Londis Victoria Road,1526,52.6907516,-1.8387846
+1978,Londis Weymouth,3,52.6921987,-1.4009292
+1979,Londis Wilson News Test,0,52.6922277,-1.4014003
+1980,Londis Woking Wines,1634,52.693603,-1.8267169
+1981,Longwick Test Store,0,52.6967789,1.2447234
+1982,LSJs Premier Store,1255,52.6979105,-1.3697744
+1983,Ludworth Convenience Store and Post Office,904,52.7040416,-2.7486245
+1984,Luncies Superstore,727,52.7044129,-2.0119948
+1985,Maan Convenience Stores Wellington Place,814,52.7075985,-2.2131146
+1986,Maan Convenience Stores Willenhall,815,52.7084706,-1.379154
+1987,MacDonald & Son Butchers,1265,52.70858893,-1.127160533
+1988,Mace - Constitution Road,0,52.70886285,-1.138625641
+1989,Macrotrition,855,52.7102232,-1.7780689

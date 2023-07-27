@@ -1,0 +1,48 @@
+services:
+  db:
+    environment:
+      POSTGRES_PASSWORD: sp
+      POSTGRES_USER: postgres
+    image: postgres:latest
+    ports:
+    - 5433:5432
+    restart: always
+    volumes:
+      - ./postgres/airflow.sql:/docker-entrypoint-initdb.d/airflow.sql
+      - ./postgres/client.sql:/docker-entrypoint-initdb.d/client.sql
+      - ./processed_data:/processed_data
+  webserver:
+    build: ./airflow
+    restart: 'always'
+    depends_on:
+      - 'db'
+    environment:
+      - 'EXECUTOR=Local'
+      - 'AIRFLOW__WEBSERVER__AUTHENTICATE=False'
+      - 'AIRFLOW__CORE__SQL_ALCHEMY_CONN=postgresql+psycopg2://postgres:sp@db:5432/airflow'
+      - 'AIRFLOW__CORE__PARALLELISM=32'         # Increase the number of task instances allowed to run concurrently
+      - 'AIRFLOW__CORE__DAG_CONCURRENCY=16'  
+    volumes:
+      - './airflow/dags:/home/airflow/dags'
+      - './scripts:/home/airflow/scripts'
+      - './raw_data:/home/airflow/raw_data'
+    ports:
+      - '8080:8080'
+    command: webserver
+  scheduler:
+    build: ./airflow
+    restart: 'always'
+    depends_on:
+      - 'db'
+    environment:
+      - 'EXECUTOR=Local'
+      - 'AIRFLOW__CORE__SQL_ALCHEMY_CONN=postgresql+psycopg2://postgres:sp@db:5432/airflow'
+      - 'AIRFLOW__CORE__PARALLELISM=32'         # Increase the number of task instances allowed to run concurrently
+      - 'AIRFLOW__CORE__DAG_CONCURRENCY=16'  
+    volumes:
+      - './airflow/dags:/home/airflow/dags'
+      - './scripts:/home/airflow/scripts'
+      - './raw_data:/home/airflow/raw_data' 
+    command: scheduler
+
+version: '3.7'
